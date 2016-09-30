@@ -1,0 +1,6 @@
+.icheck > label{
+	padding-left: '' !important;
+}
+.error{
+	color: #FF0000;
+}

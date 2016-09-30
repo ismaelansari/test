@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+@ media print
+{
+	.panel-title
+	{
+		margin-top:0;
+		margin-bottom:0;
+		font-size:160px !important;
+	}
+}
+	
